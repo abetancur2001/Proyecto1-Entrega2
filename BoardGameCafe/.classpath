@@ -6,6 +6,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/Users/andresbetancur/Documents/Proyecto1 Entrega 2/Proyecto-1-Entrega-2/BoardGameCafe/lib/org.json-1.6-20240205.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
